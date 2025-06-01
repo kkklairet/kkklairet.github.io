@@ -1,16 +1,16 @@
 # main links
 main:  
-  - title: "Quick-Start Guide"
+  - title: "About"
     url: /docs/quick-start-guide/
-  - title: "Posts"
+  - title: "Blog"
     url: /year-archive/
-  - title: "Categories"
+  - title: "CV"
     url: /categories/
-  - title: "Tags"
+  - title: "Research"
     url: /tags/
-  - title: "Pages"
+  - title: "Internship"
     url: /page-archive/
-  - title: "Collections"
+  - title: "Projects"
     url: /collection-archive/
   - title: "External Link"
     url: https://google.com
