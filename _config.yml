@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Klaire's Personal Academic Website"
+title                    : "name Personal Academic Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Klaire Tong"
+name                     : "name"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Klaire Tong"
+  name             : "mm"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an **sociologist** person."
+  location         : "london/shenzhen"
   email            :
   links:
     - label: "Personal Email"
