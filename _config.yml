@@ -119,10 +119,13 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "Personal Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto: kkklairet@outlook.com"
-    - label: "Website"
+    - label: "University Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto: stnzton@ucl.ac.uk.com"
+    - label: "Linkedin"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
